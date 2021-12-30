@@ -38,7 +38,7 @@
       return Scaffold(
           appBar: AppBar(
             title: const Center(
-              child: Text('Home'),
+              child: Text('HomeScreen'),
             ),
           ),
           body: ListView.builder(
